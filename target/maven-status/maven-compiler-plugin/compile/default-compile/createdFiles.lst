@@ -1,0 +1,6 @@
+com\bajaj\qualifier\model\SubmitSolutionRequest.class
+com\bajaj\qualifier\BajajApplication.class
+com\bajaj\qualifier\runner\StartupRunner.class
+com\bajaj\qualifier\service\WebhookService.class
+com\bajaj\qualifier\model\GenerateWebhookResponse.class
+com\bajaj\qualifier\model\GenerateWebhookRequest.class
